@@ -1,0 +1,8 @@
+#qty{
+width: 50px;
+border-radius: 1px;
+}
+.counter{
+    width: 50%;
+    margin:10px auto;
+}
