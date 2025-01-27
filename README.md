@@ -1,16 +1,26 @@
-eCommerce_Project
-Project Overview
-This project is a web-based eCommerce application developed to provide users with a seamless online shopping experience. It is built using a combination of PHP, HTML, CSS, JavaScript, and Bootstrap for responsive and visually appealing user interfaces.
+# eCommerce Project
 
-Features
-User-friendly interface with responsive design using Bootstrap.
-Product listing with categories and search functionality.
-User authentication (login and registration).
-Shopping cart for adding, updating, and removing items.
-Secure checkout process with order summary.
-Admin panel for managing products, orders, and users.
-Client-side form validation using JavaScript.
-Technologies Used
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Backend: PHP
-Database: ( MySQL)
+A web-based eCommerce application designed to provide users with a seamless online shopping experience. The project features a responsive design, user-friendly interface, and essential functionalities for online shopping and administration.
+
+## Features
+
+- **User Interface**: Responsive design built with Bootstrap.
+- **Product Management**: Product listing with categories and search functionality.
+- **User Authentication**: Login and registration system.
+- **Shopping Cart**: Add, update, and remove items.
+- **Checkout Process**: Secure checkout with an order summary.
+- **Admin Panel**: Manage products, orders, and users.
+- **Form Validation**: Client-side validation using JavaScript.
+
+## Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Backend**: PHP
+- **Database**: MySQL
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Drissrad/eCommerce_Project.git
+   cd eCommerce_Project
